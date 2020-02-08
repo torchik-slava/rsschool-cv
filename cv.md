@@ -1,11 +1,11 @@
 # Viachaslau Torchyk
 
 ## Contact Info
-:iphone: Phone: +375(29)1900141
+Phone: +375(29)1900141
 
-:e-mail: Email: torchik_slava@mail.ru
+Email: torchik_slava@mail.ru
 
-:speech_balloon: Telegram: @torchik_slava
+Telegram: @torchik_slava
 
 ## Summary
 Innovative, creative and a proven team player, I possess a great motivation in Front-end Development and building developing and managing websites, applications and programs for various companies. I seek for the place, which can provide me with skills, expertise and experience.
@@ -15,16 +15,14 @@ In my professional activity I am always responsible, honest, always ready to lea
 In my work, it is important for me to develop, acquire new skills and knowledge. Using my strongest sides and fully reaching my potential, I will be able to solve challenging and, therefore, interesting problem sets and tasks, which can benefit company and the whole society.
 
 ## Skills:
-Skill | Level (out of 5)
------------- | -------------
-HTML/HTML5 | :star::star::star:
-CSS/CSS3 | :star::star::star:
-JavaScript | :star::star::star:
-React | :star:
-Bootstrap | :star:
-Java | :star:
-SQL | :star:
-Git | :star:
+* HTML/HTML5
+* CSS/CSS3 
+* JavaScript 
+* React 
+* Bootstrap 
+* Java 
+* SQL 
+* Git 
 
 ## Code examples:
 You can see the lastest code examples on my [GitHub page](https://github.com/torchik-slava) and my [Codewars account](https://www.codewars.com/users/torchik-slava).
