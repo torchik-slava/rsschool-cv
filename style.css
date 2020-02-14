@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  font-size: 20px;
+  font-family: "Book Antiqua", "Palatino", "Georgia", serif;
+  background: url(img/laptop.png) 0 0 repeat;
+}
+
+.page-wrapper {
+  box-sizing: border-box;
+  max-width: 1024px;
+  margin: 40px auto;
+  background: url(img/paper.png) 0 0 repeat;
+  background-color: white;
+  border: 1px dashed #000000;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+header {
+  line-height: 250px;
+  border-bottom:  1px dashed #000000;
+}
+
+img {
+  display: inline-block;
+  margin: 0 5%;
+  vertical-align: middle;
+  border-radius: 50%;
+  border: 1px dashed #000000;
+}
+
+.intro-wrapper {
+  display: inline-block;
+  width: 60%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+h1,
+p {
+  width: 100%;
+  line-height: normal;
+}
+
+main {
+  display: flex;
+}
+
+.side-wrapper {
+  width: 30%;
+  border-right:  1px dashed #000000;
+}
+
+.central-wrapper {
+  width: 70%;
+  padding: 20px;
+}
+
+section {
+  padding: 10px;
+}
+
+.central-wrapper section:not(:last-child){
+  border-bottom:  1px dashed #000000;
+}
+
+ul {
+  padding-left: 10px;
+}
+
+li {
+  margin: 10px 0;
+  list-style: none;
+}
+
+i {
+  margin-right: 10px;
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+h3 i {
+  font-size: 35px;
+  vertical-align: bottom;
+}
+
+.skills li {
+  display: table-row;
+  line-height: 50px;
+}
+
+.skills li i {
+  display: table-cell;
+}
+
+.skills span {
+  display: inline-block;
+  margin: 0 15px 0 10px;
+  line-height: 30px;
+}
+
+.fa-star,
+.fa-star-half-alt {
+  font-size: 16px;
+}
+
+dt {
+  padding: 10px 0;
+}
+
+.work-experience dt i,
+.education dt i,
+.english-level li i {
+  font-size: 16px;
+  line-height: 25px;
+  vertical-align: middle;
+}
+
+.work-experience dt span,
+.education dt span {
+  vertical-align: bottom;
+}
